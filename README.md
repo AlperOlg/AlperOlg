@@ -27,7 +27,7 @@
 
 ###  Yetenekler & Mimari Yaklaşımlar
 
-* **Mimari:** N-Tier Architecture (Çok Katmanlı Mimari)
+* **Mimari:** N-Tier Architecture
 * **Yazılım Prensipleri:** SOLID Prensipleri, DRY, OOP, Clean Code
 * **Programlama Teknikleri:** Asenkron Programlama
 
@@ -35,11 +35,11 @@
 
 ###  Öne Çıkan Projeler
 
-* 🤖 **[SmartMenu](https://github.com/AlperOlg/SmartMenu):** Akıllı restoran menü yönetimi için Semantic Kernel ve yerel RAG entegre edilmiş, Dockerize edilmiş ASP.NET Core MVC web uygulaması.
+*  **[SmartMenu](https://github.com/AlperOlg/SmartMenu):** Akıllı restoran menü yönetimi için Semantic Kernel ve yerel RAG entegre edilmiş, Dockerize edilmiş ASP.NET Core MVC web uygulaması.
 
 ---
 
-### 📬 İletişim
+###  İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-olgun-798175398)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alperolgun1@gmail.com)
