@@ -1,4 +1,4 @@
-# Merhaba, Ben Alper Olgun 👋
+# Merhaba, Ben Alper Olgun
 
 ### Backend & .NET Geliştirici
 
